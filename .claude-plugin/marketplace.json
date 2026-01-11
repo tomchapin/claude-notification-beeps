@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "name": "Tom Chapin"
+  },
+  "plugins": [
+    {
+      "name": "claude-notification-beeps",
+      "source": ".",
+      "description": "Plays a notification beep when Claude finishes a task if the terminal isn't focused"
+    }
+  ]
+}

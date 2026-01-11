@@ -1,0 +1,11 @@
+{
+  "name": "claude-notification-beeps",
+  "version": "1.0.0",
+  "description": "Plays a notification beep when Claude finishes a task if the terminal isn't focused",
+  "author": {
+    "name": "Tom Chapin"
+  },
+  "repository": "https://github.com/tomchapin/claude-notification-beeps",
+  "license": "MIT",
+  "keywords": ["notification", "beep", "alerts", "windows"]
+}
